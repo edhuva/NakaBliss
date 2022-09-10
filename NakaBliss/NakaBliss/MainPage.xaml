@@ -19,6 +19,7 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+        <Label Text="Project Team" FontSize="16" Padding="30,0,30,0"/>
     </StackLayout>
 
 </ContentPage>
